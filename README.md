@@ -2,6 +2,8 @@
 
 既存のPDF帳票へCSVの各行を差し込み、個別PDFを連続作成するWindows 11向けソフトです。
 
+![帳票差込の実画面](帳票差込_BOOTH商品画像_v2_実画面.png)
+
 - [体験版を無料ダウンロード](https://sashikomi-chohyo.booth.pm/items/9050230)
 - [完全版を購入する（買い切り ¥1,480）](https://sashikomi-chohyo.booth.pm/items/9050118)
 - [BOOTHショップ](https://sashikomi-chohyo.booth.pm/)
